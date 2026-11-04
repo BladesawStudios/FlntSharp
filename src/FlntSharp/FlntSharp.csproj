@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>FlntSharp</RootNamespace>
+    <AssemblyName>FlntSharp</AssemblyName>
+    <Version>0.1.0</Version>
+    <Authors>Aiden A</Authors>
+    <Description>Reader for the .flnt foliage placement files of Ocarina of Time on Switch 2.</Description>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
